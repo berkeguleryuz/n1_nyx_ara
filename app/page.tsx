@@ -5,7 +5,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 export default function Home() {
   return (
-    <main className="relative bg-[#0B0D10] flex flex-col items-center justify-center w-screen h-screen">
+    <main className="relative bg-[#0B0D10] flex flex-col items-center justify-center w-screen h-screen overflow-hidden">
       <div className="absolute top-5 right-5">
         <Link
           href="https://x.com/Nyxara_N1"
